@@ -10343,10 +10343,10 @@ tr46@^1.0.1:
   dependencies:
     punycode "^2.1.0"
 
-trompa-multimodal-component@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/trompa-multimodal-component/-/trompa-multimodal-component-0.3.0.tgz#275e72cf49756c99424a25cf7debdf6a2a795650"
-  integrity sha512-7l3FIIAXEd/4OF3yGV6zWgZRQZg2EiJENdIPGa/XSUEZtyK+XiUFxK+QsGcihJbQuc2eJyLJRwG2tePPdLvfjA==
+trompa-multimodal-component@^0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/trompa-multimodal-component/-/trompa-multimodal-component-0.3.1.tgz#bc69fe3ca1731e92d9418a39ffe67e782fd6378f"
+  integrity sha512-x0MzX4S82CGhzZvZbLb+Hw+/KnDq2khTp+zxeRG3GPkZcIIlKFZ3yT9iMu4KBSVJcZO7C8GH+XP5wozGGVPMHg==
   dependencies:
     "@material-ui/core" "^4.8.3"
     "@material-ui/icons" "^4.5.1"
