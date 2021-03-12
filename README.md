@@ -1,3 +1,5 @@
+> **Archived (12-03-2021)**: this repository is outdated. Please follow the examples in the [trompa-multimodal-component documentation](https://github.com/trompamusic/trompa-multimodal-component#usage).  
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
